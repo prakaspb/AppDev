@@ -1,0 +1,9 @@
+Option 1:
+    - What documents are required to submit a hospitalization claim and within what time should the claim be filed?
+    - What is the total sum insured under the policy and is there any room rent sub-limit?
+    -  Are treatments related to pre-existing diseases covered under this policy?
+    - what the procedure for maternity?
+    - what is the waiting for knee surgery?
+
+Option 2:
+    Policy duration (months): 18 Hospitalization: Yes Reason for hospitalization: Knee surgery Pre-existing condition: No
