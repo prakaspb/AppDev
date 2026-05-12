@@ -1,0 +1,26 @@
+2026-05-08 04:42:16 | INFO | Logger initialized. Log file: E:\Prakash\Project_Silver\logs\study_buddy_20260508_044216.log
+2026-05-08 04:42:16 | INFO | AI Smart Study Buddy started
+2026-05-08 04:42:16 | INFO | Using real LLM: False
+2026-05-08 04:42:44 | INFO | PDF provided: E:\Prakash\Project_Silver\AISmartStudyDevImpl2\AI_SmartStudyAssistance\material\physics_high_school.pdf
+2026-05-08 04:42:44 | INFO | Extracted concepts: ['force', 'law', 'motion', 'object']
+2026-05-08 04:42:48 | INFO | User selected option: 1
+2026-05-08 04:42:50 | INFO | Studying concept: 1
+2026-05-08 04:42:56 | INFO | User selected option: 1
+2026-05-08 04:42:57 | INFO | Studying concept: 2
+2026-05-08 04:43:02 | INFO | User selected option: 1
+2026-05-08 04:43:05 | INFO | Studying concept: 2
+2026-05-08 04:43:10 | INFO | User selected option: 2
+2026-05-08 04:43:10 | INFO | Learning progress displayed:
+2026-05-08 04:43:10 | INFO | - fsdsdagsda | Mastery: 0.00 (Needs Review) | Last Reviewed: 2026-05-04 | Next Review: 2026-05-05 (in 1 days)
+2026-05-08 04:43:10 | INFO | - motion | Mastery: 0.10 (Needs Review) | Last Reviewed: 2026-05-04 | Next Review: 2026-05-05 (in 1 days)
+2026-05-08 04:43:10 | INFO | - object | Mastery: 0.10 (Needs Review) | Last Reviewed: 2026-05-06 | Next Review: 2026-05-07 (in 1 days)
+2026-05-08 04:43:10 | INFO | - symptoms | Mastery: 0.00 (Needs Review) | Last Reviewed: 2026-05-06 | Next Review: 2026-05-07 (in 1 days)
+2026-05-08 04:43:10 | INFO | - discomfort | Mastery: 0.10 (Needs Review) | Last Reviewed: 2026-05-06 | Next Review: 2026-05-07 (in 1 days)
+2026-05-08 04:43:10 | INFO | - examples | Mastery: 0.00 (Needs Review) | Last Reviewed: 2026-05-06 | Next Review: 2026-05-07 (in 1 days)
+2026-05-08 04:43:10 | INFO | - medical | Mastery: 0.30 (Needs Review) | Last Reviewed: 2026-05-06 | Next Review: 2026-05-07 (in 1 days)
+2026-05-08 04:43:10 | INFO | - y | Mastery: 0.20 (Needs Review) | Last Reviewed: 2026-05-08 | Next Review: 2026-05-09 (in 1 days)
+2026-05-08 04:43:10 | INFO | - force | Mastery: 0.50 (Improving) | Last Reviewed: 2026-05-08 | Next Review: 2026-05-11 (in 3 days)
+2026-05-08 04:43:10 | INFO | - law | Mastery: 0.00 (Needs Review) | Last Reviewed: 2026-05-08 | Next Review: 2026-05-09 (in 1 days)
+2026-05-08 04:43:10 | INFO | Displaying progress
+2026-05-08 05:14:46 | INFO | User selected option: 3
+2026-05-08 05:14:46 | INFO | Application exited by user

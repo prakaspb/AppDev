@@ -1,0 +1,7 @@
+2026-05-08 04:33:49 | INFO | Logger initialized. Log file: E:\Prakash\Project_Silver\logs\study_buddy_20260508_043349.log
+2026-05-08 04:33:49 | INFO | AI Smart Study Buddy started
+2026-05-08 04:33:49 | INFO | Using real LLM: False
+2026-05-08 04:34:12 | INFO | PDF provided: E:\Prakash\Project_Silver\AISmartStudyDevImpl2\AI_SmartStudyAssistance\material\physics_high_school.pdf
+2026-05-08 04:34:12 | INFO | Extracted concepts: ['force', 'law', 'motion', 'object']
+2026-05-08 04:34:15 | INFO | User selected option: 1
+2026-05-08 04:34:17 | INFO | Studying concept: 1

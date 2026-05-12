@@ -1,0 +1,15 @@
+2026-05-04 21:53:20 | INFO | Logger initialized. Log file: E:\Prakash\Project_Silver\logs\study_buddy_20260504_215320.log
+2026-05-04 21:53:20 | INFO | AI Smart Study Buddy started
+2026-05-04 21:53:52 | INFO | PDF provided: E:\Prakash\Project_Silver\AISmartStudyDevImpl2\AI_SmartStudyAssistance\material\physics_high_school.pdf
+2026-05-04 21:53:52 | INFO | Extracted concepts: ['force', 'law', 'motion', 'object']
+2026-05-04 21:54:20 | INFO | User selected option: object
+2026-05-04 21:54:28 | INFO | User selected option: 1
+2026-05-04 21:54:42 | INFO | Studying concept: fsdsdagsda
+2026-05-04 21:54:55 | INFO | User selected option: 1
+2026-05-04 21:55:03 | INFO | Studying concept: 2
+2026-05-04 21:55:35 | INFO | User selected option: 2
+2026-05-04 21:55:35 | INFO | Learning progress displayed:
+2026-05-04 21:55:35 | INFO | - law | Mastery: 0.30 (Needs Review) | Last Reviewed: 2026-05-04
+2026-05-04 21:55:35 | INFO | Displaying progress
+2026-05-04 21:55:53 | INFO | User selected option: 3
+2026-05-04 21:55:53 | INFO | Application exited by user

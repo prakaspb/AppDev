@@ -1,0 +1,13 @@
+2026-05-06 05:15:33 | INFO | Logger initialized. Log file: E:\Prakash\Project_Silver\logs\study_buddy_20260506_051533.log
+2026-05-06 05:15:33 | INFO | AI Smart Study Buddy started
+2026-05-06 05:15:33 | INFO | Using real LLM: True
+2026-05-06 05:15:33 | INFO | OpenAI LLM initialized
+2026-05-06 05:17:01 | INFO | PDF provided: E:\Prakash\Project_Silver\AISmartStudyDevImpl2\AI_SmartStudyAssistance\material\physics_high_school.pdf
+2026-05-06 05:17:01 | INFO | Extracted concepts: ['force', 'law', 'motion', 'object']
+2026-05-06 05:17:05 | INFO | User selected option: 1
+2026-05-06 05:17:09 | INFO | Studying concept: 1
+2026-05-06 05:17:11 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-05-06 05:17:11 | INFO | Retrying request to /chat/completions in 0.462940 seconds
+2026-05-06 05:17:12 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-05-06 05:17:12 | INFO | Retrying request to /chat/completions in 0.851529 seconds
+2026-05-06 05:17:12 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"

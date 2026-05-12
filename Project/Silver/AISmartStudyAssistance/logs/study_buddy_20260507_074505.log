@@ -1,0 +1,9 @@
+2026-05-07 07:45:05 | INFO | Logger initialized. Log file: E:\Prakash\Project_Silver\logs\study_buddy_20260507_074505.log
+2026-05-07 07:45:05 | INFO | AI Smart Study Buddy started
+2026-05-07 07:45:05 | INFO | Using real LLM: True
+2026-05-07 07:45:05 | INFO | OpenAI LLM initialized
+2026-05-07 07:45:35 | INFO | PDF provided: E:\Prakash\Project_Silver\AISmartStudyDevImpl2\AI_SmartStudyAssistance\material\physics_high_school.pdf
+2026-05-07 07:45:35 | INFO | Extracted concepts: ['force', 'law', 'motion', 'object']
+2026-05-07 07:45:38 | INFO | User selected option: 1
+2026-05-07 07:45:41 | INFO | Studying concept: 1
+2026-05-07 07:45:42 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"

@@ -1,0 +1,24 @@
+2026-05-06 07:50:21 | INFO | Logger initialized. Log file: E:\Prakash\Project_Silver\logs\study_buddy_20260506_075021.log
+2026-05-06 07:50:21 | INFO | AI Smart Study Buddy started
+2026-05-06 07:50:21 | INFO | Using real LLM: False
+2026-05-06 07:51:31 | INFO | PDF provided: E:\Prakash\Project_Silver\AISmartStudyDevImpl2\AI_SmartStudyAssistance\material\Health_Handbook.pdf
+2026-05-06 07:51:34 | INFO | Extracted concepts: ['discomfort', 'examples', 'medical', 'symptoms']
+2026-05-06 07:51:52 | INFO | User selected option: 4
+2026-05-06 07:51:56 | INFO | User selected option: 1
+2026-05-06 07:52:00 | INFO | Studying concept: 4
+2026-05-06 07:52:16 | INFO | User selected option: 1
+2026-05-06 07:52:19 | INFO | Studying concept: 1
+2026-05-06 07:52:26 | INFO | User selected option: 1
+2026-05-06 07:52:28 | INFO | Studying concept: 2
+2026-05-06 07:52:44 | INFO | User selected option: 1
+2026-05-06 07:52:53 | INFO | Studying concept: 3
+2026-05-06 07:53:16 | INFO | User selected option: 1
+2026-05-06 07:53:20 | INFO | Studying concept: 3
+2026-05-06 07:53:26 | INFO | User selected option: 1
+2026-05-06 07:53:31 | INFO | Studying concept: 3
+2026-05-06 07:53:38 | INFO | User selected option: 2
+2026-05-06 07:53:38 | INFO | Learning progress displayed:
+2026-05-06 07:53:38 | INFO | - medical | Mastery: 0.30 (Needs Review) | Last Reviewed: 2026-05-06
+2026-05-06 07:53:38 | INFO | Displaying progress
+2026-05-07 07:33:32 | INFO | User selected option: 3
+2026-05-07 07:33:32 | INFO | Application exited by user
