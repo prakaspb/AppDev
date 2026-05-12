@@ -1,0 +1,2 @@
+Use case 1 
+Smart Study Buddy 🎓 - An AI tutor that helps you study any subject by creating quizzes, explaining concepts, and tracking your learning progress
