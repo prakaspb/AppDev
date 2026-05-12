@@ -1,0 +1,51 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "OaxdS-DDG85pJh98ENUyC",
+      "type": "text",
+      "x": 305.08966064453125,
+      "y": 439.5,
+      "width": 1396.4989013671875,
+      "height": 975,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a3",
+      "roundness": null,
+      "seed": 777822940,
+      "version": 17,
+      "versionNonce": 830348516,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1776576811249,
+      "link": null,
+      "locked": false,
+      "text": "Summary (For Presentation Slides)\n\nSmart Study Buddy is an AI‑powered adaptive learning system that transforms passive studying into an intelligent, personalized experience by:\n\n\nAnalyzing study content\nGenerating tailored quizzes\nExplaining concepts dynamically\nTracking progress over time\nScheduling optimal revision sessions\n\nQuestion generation LLM (GPT)\nConcept explanation LLMDifficulty adaptation\n ML‑style scoringProgress tracking\n SQLitePersonalizationAI logic\nsmart_study_buddy/\n│\n├── main.py                     # Entry point\n│\n├── core/\n│   ├── __init__.py\n│   ├── study_buddy.py           # Main orchestrator class\n│   ├── adaptive_engine.py       # ML / adaptive logic\n│\n├── ai/\n│   ├── __init__.py\n│   ├── llm_engine.py            # LLM + NLP logic\n│   ├── content_analyzer.py      # NLP content analysis\n│\n├── database/\n│   ├── __init__.py\n│   ├── progress_db.py           # SQLite persistence\n│\n├── scheduler/\n│   ├── __init__.py\n│   ├── spaced_repetition.py     # Scheduling logic\n│\n├── requirements.txt\n└── study_buddy.db               # Auto-created",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Summary (For Presentation Slides)\n\nSmart Study Buddy is an AI‑powered adaptive learning system that transforms passive studying into an intelligent, personalized experience by:\n\n\nAnalyzing study content\nGenerating tailored quizzes\nExplaining concepts dynamically\nTracking progress over time\nScheduling optimal revision sessions\n\nQuestion generation LLM (GPT)\nConcept explanation LLMDifficulty adaptation\n ML‑style scoringProgress tracking\n SQLitePersonalizationAI logic\nsmart_study_buddy/\n│\n├── main.py                     # Entry point\n│\n├── core/\n│   ├── __init__.py\n│   ├── study_buddy.py           # Main orchestrator class\n│   ├── adaptive_engine.py       # ML / adaptive logic\n│\n├── ai/\n│   ├── __init__.py\n│   ├── llm_engine.py            # LLM + NLP logic\n│   ├── content_analyzer.py      # NLP content analysis\n│\n├── database/\n│   ├── __init__.py\n│   ├── progress_db.py           # SQLite persistence\n│\n├── scheduler/\n│   ├── __init__.py\n│   ├── spaced_repetition.py     # Scheduling logic\n│\n├── requirements.txt\n└── study_buddy.db               # Auto-created",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}

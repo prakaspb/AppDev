@@ -1,0 +1,51 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "UTZXY5-zgL8BHmc5THOdE",
+      "type": "text",
+      "x": 298,
+      "y": 154,
+      "width": 960.1793212890625,
+      "height": 1275,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0",
+      "roundness": null,
+      "seed": 2057658997,
+      "version": 3028,
+      "versionNonce": 130480894,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1776574136126,
+      "link": null,
+      "locked": false,
+      "text": "Logic Design Flow:\nStep 1. Content collection\nUpload materials-> preprocessing->normalization\nRemove noise, Extracts structure( chapters, headings)\nStep2: Concept Extraction\nText->NLP Analyzer->Concept Graph\nidentifies : Defintion, Relationships, Dependecies\nExamples: Algebra->Equations->Solving methods\nSteps 3: Learning Profile Initilization:\nNew user-> Default learning style-> Diagnostic quiz\nCreates: Baseline knowledge score, Preferred learning style( visual, auditory\n\nStep 4: Question Generation Flow\nConcept->Difficulty selection->LLM prompt-> Quiz creation\nAdaptive examples: \nBeginner->defin MCQs, Intermediate-> appln problems, Advnced->scenario based questions\n\nStep 5: Answer Evaluation\nStudent anser->Auto grading->concept score update\nUpdates: Accuracy, Confifence score, Response time\n\nStep 6: Adaptive Explation EngineLow score-> Alternate explanation-> New practice\n Explanation styles:\nVisual->Diagms and charts, Auditory-> analogies stores, kinesthetic-> step by step problem solving\n\nStep 7: Progress Tracking & Persistence\n Performance metrics -> SQ;ote database\n Metric & Purpose ( Accuracy->Mastery, Time-> Engagement, Attempts-> Difficytly tuninng\nStep 8: Spaced Repetition Schedulr:\n  Master-> Review after longer gap\n  Struggling-> Review sooner\n  Uses: Leitner-style buckets, Performanc- based intervals\nStep 9: Continuous Feedbacl Loop:\n Study->Test->Analyze->Adapt->Reschedule\nThis loop runs continuosle, making learning,\nEffiecient and Engaging\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Logic Design Flow:\nStep 1. Content collection\nUpload materials-> preprocessing->normalization\nRemove noise, Extracts structure( chapters, headings)\nStep2: Concept Extraction\nText->NLP Analyzer->Concept Graph\nidentifies : Defintion, Relationships, Dependecies\nExamples: Algebra->Equations->Solving methods\nSteps 3: Learning Profile Initilization:\nNew user-> Default learning style-> Diagnostic quiz\nCreates: Baseline knowledge score, Preferred learning style( visual, auditory\n\nStep 4: Question Generation Flow\nConcept->Difficulty selection->LLM prompt-> Quiz creation\nAdaptive examples: \nBeginner->defin MCQs, Intermediate-> appln problems, Advnced->scenario based questions\n\nStep 5: Answer Evaluation\nStudent anser->Auto grading->concept score update\nUpdates: Accuracy, Confifence score, Response time\n\nStep 6: Adaptive Explation EngineLow score-> Alternate explanation-> New practice\n Explanation styles:\nVisual->Diagms and charts, Auditory-> analogies stores, kinesthetic-> step by step problem solving\n\nStep 7: Progress Tracking & Persistence\n Performance metrics -> SQ;ote database\n Metric & Purpose ( Accuracy->Mastery, Time-> Engagement, Attempts-> Difficytly tuninng\nStep 8: Spaced Repetition Schedulr:\n  Master-> Review after longer gap\n  Struggling-> Review sooner\n  Uses: Leitner-style buckets, Performanc- based intervals\nStep 9: Continuous Feedbacl Loop:\n Study->Test->Analyze->Adapt->Reschedule\nThis loop runs continuosle, making learning,\nEffiecient and Engaging\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
